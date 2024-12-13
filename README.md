@@ -3,4 +3,4 @@ um projeto que mostra tabelas de jogos, gêneros, produtoras do banco de dados e
 <hr>
 uso php como linguagem de programação o estilo foi feito pelo chatgpt mas o resto eu criei também tenho experiência com html e xampp mysql terminal 
 <hr>
-<img src="https://www.onurozden.com.tr/wp-content/uploads/2023/11/php-8-3.png" width="150">
+<img src="https://www.onurozden.com.tr/wp-content/uploads/2023/11/php-8-3.png" width="500">
